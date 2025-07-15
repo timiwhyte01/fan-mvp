@@ -2,7 +2,7 @@ class AppConstants {
   static const String appName = 'Fuel Advance Network';
   static const String appVersion = '1.0.0';
   
-  static const String baseUrl = 'http://localhost:8000';
+  static const String baseUrl = 'https://app-dkwxhdew.fly.dev';
   
   static const double defaultCreditLimit = 5000.0;
   static const int otpExpiryMinutes = 5;
